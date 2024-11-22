@@ -1,1 +1,1 @@
-download a yolo date seet 
+download a yolo dataset from kaggle 
